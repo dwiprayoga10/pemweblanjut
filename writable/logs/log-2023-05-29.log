@@ -1,0 +1,108 @@
+CRITICAL - 2023-05-29 10:35:20 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:38:27 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:39:00 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:39:00 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:39:00 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:39:00 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:39:01 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:39:01 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:39:01 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:39:01 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:39:01 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-29 10:39:01 --> Invalid file: "produk_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('produk_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('produk_view.php', [], true)
+ 3 APPPATH\Controllers\page.php(13): view('produk_view.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->produk()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

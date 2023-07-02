@@ -1,0 +1,12 @@
+CRITICAL - 2023-06-13 01:50:35 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+INFO - 2023-06-13 00:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-13 00:26:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\ProdukController::$validation is deprecated in APPPATH\Controllers\ProdukController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\ProdukController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-13 00:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
